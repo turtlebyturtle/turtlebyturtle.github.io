@@ -46,4 +46,4 @@ minima:
       icon: bluesky
       url: "https://bsky.app/profile/turtlebyturtle.com"
 
-  hide_site_feed_link: false
+  hide_site_feed_link: true
