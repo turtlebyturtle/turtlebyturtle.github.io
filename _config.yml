@@ -39,9 +39,9 @@ minima:
 
   social_links:
     - title: bluesky
-      icon: bluesky
+      icon: fa-brands fa-bluesky
       url: "https://bsky.app/profile/turtlebyturtle.com"
-    - title: rss
+    - title: fa-solid fa-rss
       icon: rss
       url: "https://turtlebyturtle.github.io/feed.xml"
       
