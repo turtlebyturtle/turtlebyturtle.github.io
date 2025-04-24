@@ -45,5 +45,8 @@ minima:
     - title: Bluesky
       icon: bluesky
       url: "https://bsky.app/profile/turtlebyturtle.com"
+    - title: RSS
+      icon: rss
+      url: "https://turtlebyturtle.github.io/feed.xml"
 
-  hide_site_feed_link: true
+  hide_site_feed_link: false
