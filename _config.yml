@@ -34,7 +34,7 @@ minima:
   nav_pages:
     - about.md
 
-  show_excerpts: true
+  show_excerpts: false
 
 #   e.g. Nov 14, 2023
   date_format: "%b-%d-%Y"
@@ -44,4 +44,4 @@ minima:
       icon: bluesky
       url: "https://bsky.app/profile/turtlebyturtle.com"
 
-  # hide_site_feed_link: false
+hide_site_feed_link: false
