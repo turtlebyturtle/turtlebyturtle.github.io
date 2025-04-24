@@ -21,11 +21,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Uncomment the following setting if you wish to disable deprecation warnings
-#   from newer versions of sass converter. Adapt as required.
-# sass:
-#   quiet_deps: true
-#   silence_deprecations: [import]
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
 
 
 # Minima-specific settings
@@ -45,8 +43,5 @@ minima:
     - title: Bluesky
       icon: bluesky
       url: "https://bsky.app/profile/turtlebyturtle.com"
-    - title: RSS
-      icon: rss
-      url: "https://turtlebyturtle.github.io/feed.xml"
 
-  hide_site_feed_link: false
+  # hide_site_feed_link: false
