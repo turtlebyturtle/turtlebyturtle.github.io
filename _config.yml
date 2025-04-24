@@ -28,17 +28,13 @@ plugins:
 #   silence_deprecations: [import]
 
 
-# Minima-specific settings (applicable to Minima v3 and above only)
+# Minima-specific settings
 # -----------------------------------------------------------------
 minima:
   skin: auto
 
-#   Specific pages for site navigation.
-#     If you wish to link only specific pages in the site-navigation, use this
-#     and list the `path` property (as represented via Liquid) of the pages in
-#     the order they should be rendered.
-#   nav_pages:
-#     - about.md
+  nav_pages:
+    - about.md
 
   show_excerpts: true
 
@@ -49,3 +45,5 @@ minima:
     - title: Bluesky
       icon: bluesky
       url: "https://bsky.app/profile/turtlebyturtle.com"
+
+  hide_site_feed_link: false
