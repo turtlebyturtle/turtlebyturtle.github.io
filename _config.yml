@@ -33,8 +33,8 @@ plugins:
 minima:
   skin: auto
 
-  nav_pages:
-    - about.md
+#  nav_pages:
+#    - about.md
 
   show_excerpts: true
 
