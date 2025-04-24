@@ -36,12 +36,11 @@ minima:
 
   show_excerpts: false
 
-#   e.g. Nov 14, 2023
-  date_format: "%b-%d-%Y"
+  date_format: "%b %d, %Y"
 
   social_links:
     - title: Bluesky
       icon: bluesky
       url: "https://bsky.app/profile/turtlebyturtle.com"
 
-hide_site_feed_link: false
+  hide_site_feed_link: false
