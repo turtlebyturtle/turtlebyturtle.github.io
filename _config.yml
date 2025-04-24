@@ -1,6 +1,6 @@
 # Site-wide settings
 # ------------------
-title: turtlebyturtle blog
+title: turtle's blog
 
 author:
   name: turtlebyturtle
@@ -9,8 +9,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Welcome to my site of assorted nonsense!
-
+  on occasion, my hyperfixations manifest into something one might consider "useful," at which point they end up on this blog.
 
 # Build settings
 # --------------
@@ -43,4 +42,4 @@ minima:
       icon: bluesky
       url: "https://bsky.app/profile/turtlebyturtle.com"
 
-  hide_site_feed_link: false
+  hide_site_feed_link: true
