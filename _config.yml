@@ -28,7 +28,7 @@ sass:
 # Minima-specific settings
 # -----------------------------------------------------------------
 minima:
-  skin: auto
+  skin: solarized
 
   nav_pages:
     - about.md
