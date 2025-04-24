@@ -33,11 +33,16 @@ minima:
   nav_pages:
     - about.md
 
-  show_excerpts: false
+  show_excerpts: true
 
   date_format: "%b %d, %Y"
 
   social_links:
-    - title: Bluesky
+    - title: bluesky
       icon: bluesky
       url: "https://bsky.app/profile/turtlebyturtle.com"
+    - title: rss
+      icon: rss
+      url: "https://turtlebyturtle.github.io/feed.xml"
+      
+  hide_site_feed_link: true
