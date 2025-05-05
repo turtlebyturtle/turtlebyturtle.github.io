@@ -19,6 +19,7 @@ remote_theme: jekyll/minima@d4d779a
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
 
 sass:
   quiet_deps: true
