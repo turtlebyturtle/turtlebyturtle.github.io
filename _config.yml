@@ -24,8 +24,14 @@ sass:
   quiet_deps: true
   silence_deprecations: [import]
 
+# Multiple-language settings
+# -----------------------------------------------------------------
 languages: ["en", "fr"]
-
+exclude_from_localizations: ["assets"]
+defaultLang: en
+languageNames:
+  en: English
+  fr: Français
 
 # Minima-specific settings
 # -----------------------------------------------------------------
