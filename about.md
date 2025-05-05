@@ -17,7 +17,7 @@ please note that i am not an expert in any of the topics i cover. if ever i make
 ### style
 i generally write in canadian english, but i hang out with a lot of americans and brits, so please forgive me if those dialects slip into my writing.
 
-my articles are not written in lowercase, it's just a stylistic choice for the website stuff.
+my articles are not written in lowercase, it's just a stylistic choice for the meta stuff.
 
 ### legal stuff
 all posts and any images are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise specified. this means you are free to redistribute and modify it as you please, as long as you provide proper attribution and do not use it for commercial purposes.
